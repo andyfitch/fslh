@@ -1,7 +1,7 @@
 fslh - font-size & line-height generator
+====
 
 A Sublime Plugin which generates font-size and line-height em values based on px values
-====
 
 If you find yourself using Spotlight Search's maths functions or Calculator to figure out font-size and line-height em values
 
